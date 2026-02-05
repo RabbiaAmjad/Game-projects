@@ -103,6 +103,3 @@ In *The Enchanted Tiles*, each tile represents a human value, with its own uniqu
 
 *Walk the path, unlock the tiles, and discover the magic within… 🌷✨💖💫*
 
-
-
-Do you want me to do that next?
